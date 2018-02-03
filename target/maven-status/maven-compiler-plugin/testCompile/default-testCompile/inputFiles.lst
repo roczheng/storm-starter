@@ -1,0 +1,8 @@
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/bolt/IntermediateRankingsBoltTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/bolt/TotalRankingsBoltTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/RankableObjectWithFieldsTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/RankingsTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/NthLastModifiedTimeTrackerTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/SlidingWindowCounterTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/SlotBasedCounterTest.java
+/root/pubsoftware/apache-storm-1.1.1/examples/storm-starter/test/jvm/org/apache/storm/starter/bolt/RollingCountBoltTest.java
